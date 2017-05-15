@@ -1,7 +1,7 @@
 # NEUProjects
 This Repository contains final projects for Big-data(Hadoop MapReduce code) and Web Tools and Development(Spring MVC).
 
-# FinalProject_Big-data 
+FinalProject_Big-data 
 Dataset: HealthInsurance Marketplace
 Link: https://www.kaggle.com/hhs/health-insurance-marketplace
 
@@ -23,8 +23,8 @@ Also checked top 10 beneficial plans according to number of beenfit they offer.
 
 
 
-# FinalProject_WebTools
-# Online Pet Store Application
+FinalProject_SpringMVC
+Online Pet Store Application
 
 Developed an interactive application based on Spring MVC framework provide features to buy different species of pets based on customers preferences. 
 Application has an option to provide healthcare services, accessories and food for the pets. Application maintains user accounts, 
