@@ -1,7 +1,7 @@
 # NEUProjects
 This Repository contains final projects for Big-data(Hadoop MapReduce code) and Web Tools and Development(Spring MVC).
 
-# FinalProject_Big-data 
+# FinalProject_BigData 
 Dataset: HealthInsurance Marketplace
 Link: https://www.kaggle.com/hhs/health-insurance-marketplace
 
