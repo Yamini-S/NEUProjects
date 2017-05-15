@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	
+	<!-- Root Context: defines shared resources visible to all other web components -->
+	
+	 <bean id="loginUserDao" class="com.neu.edu.dao.LoginUserDAO"></bean>
+	 <bean id="validator" class="com.neu.edu.controller.LoginUserValidator"></bean>
+	 <bean id="loginValidator" class="com.neu.edu.controller.LoginFormValidator"></bean>
+     <bean id="addProductDao" class="com.neu.edu.dao.AddProductDAO"></bean>
+     <bean id="productValidator" class="com.neu.edu.controller.AddProductValidator"></bean>
+     <bean id="shoppingCart" class="com.neu.edu.model.ShoppingCart"></bean>
+     <bean id="shoppingCartList" class="com.neu.edu.model.ShoppingCartList"></bean>
+     <bean id="orderDao" class="com.neu.edu.dao.OrderDAO"></bean>
+</beans>
